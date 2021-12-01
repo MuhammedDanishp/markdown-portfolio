@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*nice car *
+_nice car_
+
+**good Nikhil **
+__good Nikhil__
+
+_You **the ** combine them_
